@@ -1,2 +1,2 @@
-day la file week1.txt
+áđasday la file week1.txt
 thuoc branch main va week1
